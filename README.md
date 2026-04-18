@@ -37,7 +37,9 @@ It showcases my background, skills, and interests as an aspiring IT professional
  📬 Contact & Links
 
  📧 Email: [malhinj@sic.edu.ph](mailto:malhinj@sic.edu.ph)
+ 
 📍 Location: Philippines
+
  🔗 Facebook: https://www.facebook.com/jeremy.malhin.9/
 
 📌 Notes
